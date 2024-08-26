@@ -1,0 +1,11 @@
+.idea/
+.env
+env/
+venv/
+virtualenv/
+__pycache__/
+logs/*
+logs/email-service*
+temp_base.py
+.project_status.txt
+.vscode/
